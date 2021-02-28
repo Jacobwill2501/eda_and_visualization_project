@@ -1,10 +1,6 @@
-import numpy as np
 import pandas as pd
-import matplotlib.pyplot as plt
-# % matplotlib inline
-import plotly.plotly as py
-import plotly.offline as pyo
 import plotly.graph_objs as go
+import plotly.offline as pyo
 
 # pyo.offline.init_notebook_mode()
 pd.set_option('display.width', 2000)
